@@ -5,9 +5,7 @@ import Vue from 'vue'
 //静态资源们
 const baseInfo = {
 	//网络请求的地址
-	baseUrl: 'http://47.93.31.175:8189/spoc-crm',
-	//图片的地址
-	imgBaseUrl: 'http://47.93.31.175:8080',
+	baseUrl: '你自己的baseUrl',
 	//网络请求错误的统一报错
 	netWrong: '请检查网络',
 }
